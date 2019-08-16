@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jasta3:jasta3@contactkeeper-oi9ck.gcp.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jasta3:jasta3@contactkeeper-oi9ck.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
